@@ -1,3 +1,3 @@
 # NBA-Prediction-DL
 
-this project is for CSCE 479 - Deep Learning where we will be creating an a NBA player stats predictor to aid in sports betting
+Deep Learning model to experiment predicting points for NBA players based on past performances. The .pdf displays all of the findings from this experiment 
